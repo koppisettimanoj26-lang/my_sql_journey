@@ -403,4 +403,4 @@ mysql> select *from students order by age desc;
 Execution flow of Clauses:
 ---------------------------
 
-from--> where --> groupby --> having --> select --> orderby...
+from--> where --> groupby --> having --> select --> orderby..
